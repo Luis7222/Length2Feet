@@ -1,15 +1,4 @@
-/////////////////////////////////////////////////////////////////////
-//
-// Name: Luis Gonzalez
-// Date: 1-21-2021
-// Class: CSCI 1170.92L
-// Semester:  Spring 2021
-// CSCI/CMPE 1370 Instructor: Dietrich
-//
-// Program Name: Length converter
-// Program Description:
-//
-/////////////////////////////////////////////////////////////////////
+//find length in feet
 #include<iostream>
 #include <typeinfo>   // operator typeid
 // Include here all the other libraries that required for the program to compile
